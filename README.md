@@ -1,5 +1,7 @@
 # verilogHDL_DE0
 
+![DE0](https://github.com/khrd/verilogHDL_DE0/blob/picture/picture/DE0.png)
+
 このリポジトリは，
 [超入門！FPGAスタータ・キットDE0で始めるVerilog HDL](http://shop.cqpub.co.jp/hanbai/books/31/31371.html)
 のサンプルコードを書き写したものです．
