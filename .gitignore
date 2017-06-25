@@ -4,6 +4,7 @@
 /*/simulation/*
 
 */*.qpf
+*/*.qpf.bak
 !*/*.qsf
 */*.qws
 !*/*.v
